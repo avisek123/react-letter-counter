@@ -1,0 +1,27 @@
+.App {
+  font-family: "josefin sans", sans-serif;
+  text-align: center;
+}
+div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+textarea {
+  border: 2px solid #098;
+  border-radius: 10px;
+  outline: none;
+  font-size: 1.2rem;
+  padding: 10px 2px;
+  box-shadow: 0 0 4px 1px #b2bec3;
+}
+button {
+  padding: 10px 20px;
+  background-color: #098;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid #098;
+  font-size: 1.2rem;
+}
